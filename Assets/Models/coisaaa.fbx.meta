@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 93db26b24b9ebee40bc8564a15aa5ea5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: be_jaw01
+    100002: be_l_hand01
+    100004: be_r_hand01
+    100006: be_vertebrae05
+    100008: bn_claw_a01
+    100010: bn_claw_a01 1
+    100012: bn_claw_a02
+    100014: bn_claw_a02 1
+    100016: bn_claw_a03
+    100018: bn_claw_a03 1
+    100020: bn_claw_b01
+    100022: bn_claw_b01 1
+    100024: bn_claw_b02
+    100026: bn_claw_b02 1
+    100028: bn_claw_b03
+    100030: bn_claw_b03 1
+    100032: bn_claw_c01
+    100034: bn_claw_c01 1
+    100036: bn_claw_c02
+    100038: bn_claw_c02 1
+    100040: bn_claw_c03
+    100042: bn_claw_d01
+    100044: bn_claw_d01 1
+    100046: bn_claw_d02
+    100048: bn_claw_d02 1
+    100050: bn_claw_d03
+    100052: bn_head01
+    100054: bn_jaw01
+    100056: bn_l_base_pin01
+    100058: bn_l_choulder01
+    100060: bn_l_elbow01
+    100062: bn_l_hand01
+    100064: bn_l_knee01
+    100066: bn_l_leg01
+    100068: bn_l_toes01
+    100070: bn_main01
+    100072: bn_pin_down01
+    100074: bn_pin_down01 1
+    100076: bn_pin_down02
+    100078: bn_pin_down02 1
+    100080: bn_pin_up01
+    100082: bn_pin_up01 1
+    100084: bn_pin_up02
+    100086: bn_pin_up02 1
+    100088: bn_r_base_pin01
+    100090: bn_r_choulder01
+    100092: bn_r_elbow01
+    100094: bn_r_hand01
+    100096: bn_r_knee01
+    100098: bn_r_leg01
+    100100: bn_r_toes01
+    100102: bn_root
+    100104: bn_tail01
+    100106: bn_tail02
+    100108: bn_tail03
+    100110: bn_tail04
+    100112: bn_tail05
+    100114: bn_tail06
+    100116: bn_tail07
+    100118: bn_tail08
+    100120: bn_vertebrae01
+    100122: bn_vertebrae02
+    100124: bn_vertebrae03
+    100126: bn_vertebrae04
+    100128: bones01
+    100130: Claw_L_1
+    100132: Claw_L_2
+    100134: Claw_L_3
+    100136: Claw_L_4
+    100138: Claw_left
+    100140: Claw_R_3
+    100142: Claw_R_4
+    100144: Claw_right
+    100146: Claws_R_1
+    100148: Claws_R_2
+    100150: //RootNode
+    100152: Geo_KRAGTER
+    100154: Geometry01
+    100156: Global_control_01
+    100158: Global_scale01
+    100160: Pinza_one_l
+    100162: Pinza_one_r
+    100164: Pinza_two_l
+    100166: Pinza_two_r
+    100168: pizas_l
+    100170: pizas_r
+    400000: be_jaw01
+    400002: be_l_hand01
+    400004: be_r_hand01
+    400006: be_vertebrae05
+    400008: bn_claw_a01
+    400010: bn_claw_a01 1
+    400012: bn_claw_a02
+    400014: bn_claw_a02 1
+    400016: bn_claw_a03
+    400018: bn_claw_a03 1
+    400020: bn_claw_b01
+    400022: bn_claw_b01 1
+    400024: bn_claw_b02
+    400026: bn_claw_b02 1
+    400028: bn_claw_b03
+    400030: bn_claw_b03 1
+    400032: bn_claw_c01
+    400034: bn_claw_c01 1
+    400036: bn_claw_c02
+    400038: bn_claw_c02 1
+    400040: bn_claw_c03
+    400042: bn_claw_d01
+    400044: bn_claw_d01 1
+    400046: bn_claw_d02
+    400048: bn_claw_d02 1
+    400050: bn_claw_d03
+    400052: bn_head01
+    400054: bn_jaw01
+    400056: bn_l_base_pin01
+    400058: bn_l_choulder01
+    400060: bn_l_elbow01
+    400062: bn_l_hand01
+    400064: bn_l_knee01
+    400066: bn_l_leg01
+    400068: bn_l_toes01
+    400070: bn_main01
+    400072: bn_pin_down01
+    400074: bn_pin_down01 1
+    400076: bn_pin_down02
+    400078: bn_pin_down02 1
+    400080: bn_pin_up01
+    400082: bn_pin_up01 1
+    400084: bn_pin_up02
+    400086: bn_pin_up02 1
+    400088: bn_r_base_pin01
+    400090: bn_r_choulder01
+    400092: bn_r_elbow01
+    400094: bn_r_hand01
+    400096: bn_r_knee01
+    400098: bn_r_leg01
+    400100: bn_r_toes01
+    400102: bn_root
+    400104: bn_tail01
+    400106: bn_tail02
+    400108: bn_tail03
+    400110: bn_tail04
+    400112: bn_tail05
+    400114: bn_tail06
+    400116: bn_tail07
+    400118: bn_tail08
+    400120: bn_vertebrae01
+    400122: bn_vertebrae02
+    400124: bn_vertebrae03
+    400126: bn_vertebrae04
+    400128: bones01
+    400130: Claw_L_1
+    400132: Claw_L_2
+    400134: Claw_L_3
+    400136: Claw_L_4
+    400138: Claw_left
+    400140: Claw_R_3
+    400142: Claw_R_4
+    400144: Claw_right
+    400146: Claws_R_1
+    400148: Claws_R_2
+    400150: //RootNode
+    400152: Geo_KRAGTER
+    400154: Geometry01
+    400156: Global_control_01
+    400158: Global_scale01
+    400160: Pinza_one_l
+    400162: Pinza_one_r
+    400164: Pinza_two_l
+    400166: Pinza_two_r
+    400168: pizas_l
+    400170: pizas_r
+    2100000: blinn1
+    2100002: phongE4
+    2100004: phongE2
+    2100006: phongE3
+    4300000: Geo_KRAGTER
+    4300002: Claw_L_4
+    4300004: Claw_L_3
+    4300006: Claw_L_2
+    4300008: Claw_L_1
+    4300010: Claw_R_4
+    4300012: Claw_R_3
+    4300014: Claws_R_2
+    4300016: Claws_R_1
+    4300018: Pinza_one_l
+    4300020: Pinza_two_l
+    4300022: Pinza_one_r
+    4300024: Pinza_two_r
+    9500000: //RootNode
+    13700000: Claw_L_1
+    13700002: Claw_L_2
+    13700004: Claw_L_3
+    13700006: Claw_L_4
+    13700008: Claw_R_3
+    13700010: Claw_R_4
+    13700012: Claws_R_1
+    13700014: Claws_R_2
+    13700016: Geo_KRAGTER
+    13700018: Pinza_one_l
+    13700020: Pinza_one_r
+    13700022: Pinza_two_l
+    13700024: Pinza_two_r
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 9308fa7f7f2f27841ad4af65977e40ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE2
+    second: {fileID: 2100000, guid: 56b82a56c25b89b4b83b6a9d4b0d4c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE3
+    second: {fileID: 2100000, guid: 56b82a56c25b89b4b83b6a9d4b0d4c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE4
+    second: {fileID: 2100000, guid: 56b82a56c25b89b4b83b6a9d4b0d4c2b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3000
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
