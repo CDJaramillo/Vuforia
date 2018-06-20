@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e6d45457d36aefd4a88d93f7a79bb82b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ghostz
+  fontNames:
+  - Ghostz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d5b5397a5569ab44a8ad09f5e3d9dd80, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
