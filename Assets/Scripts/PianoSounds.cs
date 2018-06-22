@@ -6,10 +6,14 @@ public class PianoSounds : MonoBehaviour
 	public AudioClip[] aClips;
 	public AudioSource myAudioSource;
 	string btName;
+	//Llamamos al componente de audio
 	void Start () 
 	{
 		myAudioSource.GetComponent<AudioSource>();
 	}
+	//En un if vamos a hacer un raycats detectando los touchs que hagamos, al hacer touch se generará un raycast
+	//En el otro if si el racast toca el boton haremos un caso para cada boton y cada boton reproducira un audio.
+	//Dichos raycast se detectaran en la posicion de la pantalla.
 	void Update () 
 	{
 		if(Input.touchCount >0 && Input.touches[0].phase == TouchPhase.Began)
