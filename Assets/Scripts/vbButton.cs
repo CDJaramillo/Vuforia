@@ -8,17 +8,17 @@ public class vbButton : MonoBehaviour, IVirtualButtonEventHandler //Para usar el
 {
     public GameObject vbBtnObj;
     public Animator cubeAni;
- // En el start vamos a realizar los llamados para la animación del cubo
+ //En el start vamos a realizar los llamados para la animación del cubo
  //También vamos a buscar el GameObject llamado "Botón" ESTO IMPORTANTE TENER EN CUENTA YA QUE SI PONES OTRO NOMBRE SIMPLEMENTE NO PODRÁS INTERACTUAR
  //También al botón virtual le llamamos el componente de boton virtual y que registre el evento
-void Start () 
+void Start ()
     {
         vbBtnObj = GameObject.Find("Boton");
         vbBtnObj.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
         cubeAni.GetComponent<Animator>();
     } 
  //Con el onButtonPressed y llamando al botón virtual vamos a hacer que el cubo se anime
- // O sea al "tocar" el botón dicho cubo empezará a rotar
+ //O sea al "tocar" el botón dicho cubo empezará a rotar
 public void OnButtonPressed(VirtualButtonBehaviour vb)
     {
         cubeAni.Play("Cube");
